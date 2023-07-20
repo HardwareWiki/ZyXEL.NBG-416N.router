@@ -1,0 +1,2 @@
+- https://forum.archive.openwrt.org/viewtopic.php?id=46606&p=1
+- https://forum.openwrt.org/t/openwrt-12-09-on-rtl8196c-4-mega-rom-16-mega-ram/37354
